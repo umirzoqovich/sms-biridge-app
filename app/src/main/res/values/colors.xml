@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Backgrounds -->
+    <color name="bg_dark">#090D16</color>
+    <color name="surface_dark">#111827</color>
+    <color name="surface_dark_card">#172033</color>
+    <color name="surface_dark_elevated">#1F2937</color>
+    <color name="input_background">#0D131F</color>
+    <color name="console_background">#030712</color>
+
+    <!-- Accents (Emerald / Neon Green) -->
+    <color name="emerald_500">#10B981</color>
+    <color name="emerald_400">#34D399</color>
+    <color name="emerald_600">#059669</color>
+    <color name="emerald_700">#047857</color>
+    <color name="emerald_neon">#10E79D</color>
+    <color name="emerald_glow">#3310B981</color>
+    <color name="emerald_soft_bg">#1810B981</color>
+
+    <!-- Statuses -->
+    <color name="status_connected">#10B981</color>
+    <color name="status_connected_glow">#3310B981</color>
+    <color name="status_disconnected">#EF4444</color>
+    <color name="status_disconnected_glow">#33EF4444</color>
+    <color name="status_warning">#F59E0B</color>
+
+    <!-- Button & Alert states -->
+    <color name="danger_red">#EF4444</color>
+    <color name="danger_dark">#B91C1C</color>
+    <color name="danger_glow">#33EF4444</color>
+
+    <!-- Text Colors -->
+    <color name="text_primary">#F9FAFB</color>
+    <color name="text_secondary">#9CA3AF</color>
+    <color name="text_muted">#6B7280</color>
+    <color name="text_console">#34D399</color>
+    <color name="text_console_dim">#6EE7B7</color>
+    <color name="text_console_error">#F87171</color>
+
+    <!-- Borders & Dividers -->
+    <color name="border_subtle">#1F2937</color>
+    <color name="border_active">#10B981</color>
+    <color name="border_hover">#374151</color>
+
+    <!-- System & Fallback -->
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="transparent">#00000000</color>
+</resources>

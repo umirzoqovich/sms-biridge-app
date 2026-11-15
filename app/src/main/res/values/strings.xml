@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">SMS Bridge Pro</string>
+    <string name="app_subtitle">Python CRM SMS Gateway</string>
+
+    <!-- Header status badge -->
+    <string name="status_connected">Ulangan</string>
+    <string name="status_disconnected">Uzilgan</string>
+    <string name="status_checking">Tekshirilmoqda…</string>
+    <string name="status_dot">●</string>
+
+    <!-- Server Configuration -->
+    <string name="server_settings_title">Server sozlamalari</string>
+    <string name="server_url_label">Python CRM Server URL manzili</string>
+    <string name="server_url_hint">http://192.168.1.105:8000</string>
+    <string name="btn_check_connection">Ulanishni tekshirish</string>
+    <string name="ping_success">Ulanish muvaffaqiyatli (%1$d ms)</string>
+    <string name="ping_failed">Ulanishda xatolik: server javob bermadi</string>
+    <string name="url_empty_error">Iltimos, server URL manzilini kiriting</string>
+
+    <!-- SIM Selector -->
+    <string name="sim_selector_title">SIM Karta tanlash</string>
+    <string name="sim_selector_desc">SMS yuborish uchun faol SIM kartani belgilang</string>
+    <string name="sim_1">SIM 1</string>
+    <string name="sim_2">SIM 2</string>
+    <string name="sim_auto">Avtomatik</string>
+
+    <!-- Main Service Controls -->
+    <string name="btn_start_service">Xizmatni yoqish</string>
+    <string name="btn_stop_service">To\'xtatish</string>
+    <string name="service_running_desc">Xizmat faol: har 3 soniyada server tekshirilmoqda</string>
+    <string name="service_stopped_desc">Xizmat to\'xtatilgan</string>
+
+    <!-- Stats & Live Monitoring -->
+    <string name="stats_title">Jonli monitoring</string>
+    <string name="total_sent_sms">Jami yuborilgan SMSlar</string>
+    <string name="success_count_label">Muvaffaqiyatli:</string>
+    <string name="failed_count_label">Xatoliklar:</string>
+
+    <!-- Console Log Box -->
+    <string name="console_logs_title">SMS Yuborish Jurnali</string>
+    <string name="console_logs_subtitle">Oxirgi 15 ta operatsiya holati</string>
+    <string name="btn_clear_logs">Tozalash</string>
+    <string name="empty_console_logs">SMS jurnali bo\'sh. Xizmat yoqilganda so\'nggi yuborilgan raqamlar shu yerda aks etadi.</string>
+
+    <!-- Battery and Permissions Warning -->
+    <string name="battery_optimization_warning">Samsung / Xiaomi tizimi xizmatni to\'xtatib qo\'ymasligi uchun batareya cheklovini o\'chiring.</string>
+    <string name="battery_optimization_btn">Cheklovni o\'chirish</string>
+    <string name="permission_required_title">Ruxsatlar zarur</string>
+    <string name="permission_required_desc">SMS yuborish va fon xizmati to\'g\'ri ishlashi uchun ruxsatlarni tasdiqlang.</string>
+    <string name="permission_grant_btn">Ruxsat berish</string>
+
+    <!-- Notification Strings -->
+    <string name="notification_channel_name">SMS Bridge Xizmati</string>
+    <string name="notification_channel_desc">SMS Bridge Pro doimiy fon xizmati xabarnomasi</string>
+    <string name="notification_title">SMS Bridge Pro faol</string>
+    <string name="notification_text_waiting">Server bilan aloqa o\'rnatilgan. Yangi SMSlar kutilmoqda…</string>
+    <string name="notification_text_sending">%1$s raqamiga SMS yuborilmoqda…</string>
+    <string name="notification_action_stop">To\'xtatish</string>
+</resources>
